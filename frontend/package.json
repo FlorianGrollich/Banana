@@ -59,7 +59,7 @@
     "cypress": "^13.5.0",
     "jest-fetch-mock": "^3.0.3",
     "jest-mock": "^29.7.0",
-    "lint-staged": "^15.0.2",
+    "lint-staged": "^15.2.0",
     "monaco-editor": "^0.44.0",
     "prettier": "^3.0.3",
     "react-app-rewired": "^2.2.1"
